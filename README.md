@@ -1,16 +1,29 @@
-### Hi there 👋
+<!-- markdown -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=HACKED&weight=100&size=35&pause=800&color=F75391&center=true&vCenter=true&width=430&height=60&lines=Hello%2C+fellow+earthlings...;I'm+Ivan;Welcome+to+my+place+!!!)](https://git.io/typing-svg)
+<br>
+<br>
+ <hr/>
+<!--About me-->
+<h1> About Me:</h1>
+I'm an undergraduate, and I have a passion for learning new things every day<br>I love music and love to play video games as well
+ <hr/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=github,cs,py,c,otnet" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,figma,ps,gcp" />
+</div>
 
-<!--
-**Ivan29G/Ivan29G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=Ivan29G&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ivan29G&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan29G&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/>
+<hr/>
