@@ -10,7 +10,7 @@ I'm an undergraduate, and I have a passion for learning new things every day<br>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,py,java,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=github,py,java" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,figma,ps,gcp" />
 </div>
 
