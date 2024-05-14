@@ -11,7 +11,7 @@ I'm an undergraduate, and I have a passion for learning new things every day<br>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,py,java" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,figma,ps,gcp" />
+    <img src="https://skillicons.dev/icons?i=html,css,figma,ps,flutter" />
 </div>
 
 <br/>
