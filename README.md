@@ -1,5 +1,5 @@
 <!-- markdown -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=HACKED&weight=100&size=35&pause=800&color=F75391&center=true&vCenter=true&width=430&height=60&lines=Hello%2C+fellow+earthlings...;I'm+Ivan;Welcome+to+my+place+!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=HACKED&weight=100&size=35&pause=800&color=BD9E75&center=true&vCenter=true&width=430&height=60&lines=Hello%2C+fellow+earthlings...;I'm+Ivan;Welcome+to+my+place+!!!)](https://git.io/typing-svg)
 <br>
 <br>
  <hr/>
