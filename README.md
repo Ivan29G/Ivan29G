@@ -5,7 +5,7 @@
  <hr/>
 <!--About me-->
 <h1> About Me:</h1>
-I'm an undergraduate, and I have a passion for learning new things every day<br>I love music and love to play video games as well
+I'm an undergraduate, and I have a passion for learning new things every day, and I am Tech Enthusiastic<br>I love music and love to play video games as well
  <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -27,3 +27,5 @@ I'm an undergraduate, and I have a passion for learning new things every day<br>
 
 <br/><br/>
 <hr/>
+
+
