@@ -5,7 +5,7 @@
  <hr/>
 <!--About me-->
 <h1> About Me:</h1>
-I'm an undergraduate, and I have a passion for learning new things every day, and I am Tech Enthusiast<br>I love music.
+Hi there! I'm Ivan, an enthusiastic undergraduate passionate about technology and continuous learning. Every day brings a new opportunity to explore and grow in the tech world. Besides coding, I love music and gaming, which keep my creativity and problem-solving skills sharp. Let's connect and build something amazing together!
  <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
