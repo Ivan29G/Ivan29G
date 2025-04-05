@@ -1,3 +1,4 @@
+
 <!-- markdown -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=HACKED&weight=100&size=35&pause=800&color=BD9E75&center=true&vCenter=true&width=430&height=60&lines=Hello%2C+fellow+earthlings...;I'm+Ivan;Welcome+to+my+place+!!!)](https://git.io/typing-svg)
 <br>
@@ -10,8 +11,9 @@ Hi there! I'm Ivan, an enthusiastic undergraduate passionate about technology an
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,py,java,azure" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,linux" />
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,linux,azure,nodejs,react,mongodb" />
+  </p>
 </div>
 
 <br/>
