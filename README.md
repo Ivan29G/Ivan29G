@@ -1,5 +1,8 @@
+<!--Banner image -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12345678/your-image.png" alt="Banner" width="100%" />
+</p>
 
-<!-- markdown -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=HACKED&weight=100&size=35&pause=800&color=BD9E75&center=true&vCenter=true&width=430&height=60&lines=Hello%2C+fellow+earthlings...;I'm+Ivan;Welcome+to+my+place+!!!)](https://git.io/typing-svg)
 <br>
 <br>
