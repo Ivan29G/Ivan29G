@@ -10,8 +10,8 @@ Hi there! I'm Ivan, an enthusiastic undergraduate passionate about technology an
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,py,java" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,figma,ps,flutter" />
+    <img src="https://skillicons.dev/icons?i=github,py,java,azure" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,linux" />
 </div>
 
 <br/>
