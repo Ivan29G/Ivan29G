@@ -9,7 +9,6 @@
 
 </div>
 <hr>
-<img align="right" alt="Coding" width="150" height="250" src="">
 <br>
 
 
