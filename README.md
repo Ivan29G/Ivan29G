@@ -1,8 +1,7 @@
 <!--Banner image -->
 <p align="center">
-  <img src="https://github.com/Ivan29G/Ivan29G/blob/4502aa0e2cd7b831a1e7f362fcaf2f1e4d9c62c7/Images/person-playing-3d-video-games-device.jpg" alt="Banner" width="100%"/>
+  <img src="https://github.com/Ivan29G/Ivan29G/blob/4502aa0e2cd7b831a1e7f362fcaf2f1e4d9c62c7/Images/person-playing-3d-video-games-device.jpg" alt="Banner" height="350px" width="750px"/>
 </p>
-<br>
 <hr>
 <div align="center">
 
@@ -10,8 +9,9 @@
 
 </div>
 <hr>
+<img align="right" alt="Coding" width="150" height="250" src="">
 <br>
-<br>
+
 
 <!--About me-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivan29g&label=Profile%20views&color=0e75b6&style=flat" alt="ivan29g" /> </p>
