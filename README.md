@@ -46,10 +46,13 @@
 
 <div style="padding: 15px; width: 200px; border-radius: 8px; align: center;">
   <a href="https://www.credly.com/badges/78b3827d-8c49-413e-a7c5-4237c9b996e9/public_url" target="_blank">
-    <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Cisco Certified" width="150">
+    <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Cisco Certified" width="140">
+  </a>
+ &nbsp&nbsp
+  <a href="https://api.badgr.io/public/assertions/-v6FvkpkTgmdAaVpysDaiw?identity__email=ivangammanpila12%40gmail.com" target="_blank">
+    <img src="https://github.com/user-attachments/assets/9c5dc1ff-4838-4521-a8fb-86089adf29a9" alt="Postman Certified" width="150">
   </a>
 </div>
-
 <hr/>
 
 <!--My Stats -->
