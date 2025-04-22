@@ -28,7 +28,7 @@
     <p align="left">
         <a href="https://linkedin.com/in/ivan gammanpila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"alt="ivan gammanpila" height="30" width="40" /></a>
         <a href="https://instagram.com/ivo_g29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivo_g29" height="30" width="40" /></a>
-        <a href="https://medium.com/@ivan gammanpila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ivan gammanpila" height="30" width="40" /></a>
+        <a href="https://medium.com/@ivangammanpila12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ivan gammanpila" height="30" width="40" /></a>
     </p>
 <hr/>
 
