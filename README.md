@@ -1,8 +1,8 @@
 <!--Banner image -->
 <p align="center">
-  <img src="https://github.com/Ivan29G/Ivan29G/blob/4502aa0e2cd7b831a1e7f362fcaf2f1e4d9c62c7/Images/person-playing-3d-video-games-device.jpg" alt="Banner" height="350px" width="750px"/>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture>
 </p>
-<hr>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=B6DE40FD&background=FFBD8500&center=true&vCenter=true&width=447&lines=Hi%2C+I'm+Ivan+Gammanpila.;IT+Student+.+.+.;Tech-Savvy+in+Cloud+%26+Security;Always+Exploring+New+Tech+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -13,14 +13,21 @@
 
 
 <!--About me-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivan29g&label=Profile%20views&color=0e75b6&style=flat" alt="ivan29g" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ivan29g&label=Profile%20views&color=0e75b6&style=flat" alt="ivan29g" /> </p>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
 
 - 🌱 Currently studying **Information and Communications Technology.**
 
 - 💬 Ask me about **Python, Linux, Html, CSS, Javascript**
 
 - 📫 How to reach me **ivangammanpilaprof02@gmail.com**
+<br>
  <hr/>
+
 
 <!-- Social Media Links -->
 <h2 align="left">Connect with me:</h2>
@@ -55,6 +62,21 @@
 </div>
 <hr/>
 
+<!--games zone -->
+<div>
+  <h2>🧠 CTF Mini-Challenge: Crack & Claim!</h2>
+
+Welcome, cyber explorer! 🔍 Think you can uncover hidden secrets? Here's a mini CTF challenge to test your skills. Try decoding this Base64-encoded string to uncover the secret URL: 💥
+
+
+> ```
+> VGhlIGZsYWcgaXM6IHtDM0ZfMTIzRk9VTkRfWU9VUn9LRVl9
+> ```
+
+**Hint**: This is not encrypted. Just a light disguise. Try using `base64` tools online or in your terminal.
+
+</div>
+
 <!--My Stats -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -73,5 +95,4 @@
 
 <br/><br/>
 <hr/>
-
 
