@@ -63,17 +63,25 @@
 <hr/>
 
 <!--games zone -->
-<div>
-  <h2>🧠 CTF Mini-Challenge: Crack & Claim!</h2>
+<div style="border: 2px dashed #4CAF50; border-radius: 10px; padding: 20px; margin-top: 20px; background-color: #0d1117;">
 
+<h2>🧠 CTF Mini-Challenge: Crack & Claim!</h2>
+
+<p>
 Welcome, cyber explorer! 🔍 Think you can uncover hidden secrets? Here's a mini CTF challenge to test your skills. Try decoding this Base64-encoded string to uncover the secret URL: 💥
+</p>
 
+<pre>
+WW91ciBmbGFnIGlzOiBDM0ZfMTIzRk9VTkRfWU9VUl9LRVkK
+</pre>
 
-> ```
-> VGhlIGZsYWcgaXM6IHtDM0ZfMTIzRk9VTkRfWU9VUn9LRVl9
-> ```
+<p><strong>Hint</strong>: This is not encrypted. Just a light disguise. Try using <code>base64</code> tools online or in your terminal.</p>
 
-**Hint**: This is not encrypted. Just a light disguise. Try using `base64` tools online or in your terminal.
+<p>Once you decode the flag, try visiting this URL to claim your reward:</p>
+
+<pre>
+https://ivan29g.github.io/Ivan29G/CTF-Reward/{your_flag}.html
+</pre>
 
 </div>
 
