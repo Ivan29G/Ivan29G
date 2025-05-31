@@ -59,6 +59,10 @@
   <a href="https://api.badgr.io/public/assertions/-v6FvkpkTgmdAaVpysDaiw?identity__email=ivangammanpila12%40gmail.com" target="_blank">
     <img src="https://github.com/user-attachments/assets/9c5dc1ff-4838-4521-a8fb-86089adf29a9" alt="Postman Certified" width="150">
   </a>
+ &nbsp&nbsp
+  <a href="https://www.credly.com/badges/7537511b-0812-4dee-9504-5f8cc73400a9/public_url" target="_blank">
+    <img src="https://github.com/user-attachments/assets/9c5dc1ff-4838-4521-a8fb-86089adf29a9" alt="Github Foundation Certified" width="150">
+  </a>
 </div>
 <hr/>
 
