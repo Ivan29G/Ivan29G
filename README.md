@@ -50,20 +50,22 @@
 <hr/>
 
 <h2>🏅 Verified Certifications </h2>
-
-<div style="padding: 15px; width: 200px; border-radius: 8px; align: center;">
-  <a href="https://www.credly.com/badges/78b3827d-8c49-413e-a7c5-4237c9b996e9/public_url" target="_blank">
+<div>
+<p align="center">
+  <a href="https://www.credly.com/badges/78b3827d-8c49-413e-a7c5-4237c9b996e9/public_url" target="blank">
     <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Cisco Certified" width="140">
   </a>
- &nbsp&nbsp
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://api.badgr.io/public/assertions/-v6FvkpkTgmdAaVpysDaiw?identity__email=ivangammanpila12%40gmail.com" target="_blank">
     <img src="https://github.com/user-attachments/assets/9c5dc1ff-4838-4521-a8fb-86089adf29a9" alt="Postman Certified" width="150">
   </a>
- &nbsp&nbsp
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/7537511b-0812-4dee-9504-5f8cc73400a9/public_url" target="_blank">
-    <img src="https://github.com/user-attachments/assets/9c5dc1ff-4838-4521-a8fb-86089adf29a9" alt="Github Foundation Certified" width="150">
+    <img src="https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundation Certified" width="150">
   </a>
+</p>
 </div>
+
 <hr/>
 
 <!--games zone -->
