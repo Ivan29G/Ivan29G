@@ -63,6 +63,10 @@
   <a href="https://www.credly.com/badges/7537511b-0812-4dee-9504-5f8cc73400a9/public_url" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundation Certified" width="150">
   </a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/b6e59dab-ff79-4c38-82a8-7b5c829d342c/public_url" target="_blank">
+    <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="Cisco Certified" width="150">
+  </a>
 </p>
 </div>
 
