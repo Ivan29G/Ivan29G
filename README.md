@@ -20,10 +20,9 @@
 <br><br>
 
 
-- 🌱 Currently studying **Information and Communications Technology.**
-
-- 💬 Ask me about **Python, Linux, Html, CSS, Javascript**
-
+- 🌱 Currently specializing in **Networking, Cybersecurity, and Linux Systems**
+- 💼 Working with **Network Infrastructure, Linux Systems, and Security**
+- 💬 Ask me about **Networking, Linux, Python, Bash Scripting, and Security**
 - 📫 How to reach me **ivangammanpilaprof02@gmail.com**
 <br>
  <hr/>
