@@ -66,6 +66,14 @@
   <a href="https://www.credly.com/badges/b6e59dab-ff79-4c38-82a8-7b5c829d342c/public_url" target="_blank">
     <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="Cisco Certified" width="150">
   </a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/c03f1e93-527e-4d57-af60-33243b9ab13e/public_url" target="_blank">
+    <img src="https://images.credly.com/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="Cisco Certified" width="150">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/c853c79b-bdd0-4b72-9ff8-2076a8bce8f8/public_url" target="_blank">
+    <img src="https://images.credly.com/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="Cisco Certified" width="150">
+  </a>
 </p>
 </div>
 
